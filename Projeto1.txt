@@ -1,0 +1,20 @@
+nano compose.yml
+mkdir website
+cd website/
+nano index.html
+
+<html>
+
+<h1> Meu primeiro projeto Docker! </h1>
+
+
+</html>
+ 
+ 
+apt install docker-compose 
+ 
+docker-compose up -d
+ 
+docker container ls
+
+ 
